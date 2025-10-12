@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamza, and I'm a Game Developer.</h2>
+<h2 align="left">What's up 👋 Hamza here
 
 ###
 
