@@ -4,13 +4,6 @@
 
 <p align="left"></p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Hamzakhanmarwat/count.svg?"  />
-</div>
-
-###
 
 <h1 align="left">📉Metrics & Stats📈</h1>
 
