@@ -70,14 +70,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzachan69&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hamzachan69/hamzachan69/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/m5s7ihitzxxj4ltemeueibms8">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=m5s7ihitzxxj4ltemeueibms8&count=4&unique=true" alt="Spotify recently played"  />
