@@ -25,11 +25,16 @@
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzachan69&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzachan69&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=hamzachan69&theme=github_dark&hide_border=true" height="150" alt="streak graph" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzachan69&show_icons=true&theme=github_dark&hide_border=true" alt="stats graph" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzachan69&layout=compact&theme=github_dark&hide_border=true" alt="languages graph" height="150" />
+  
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=hamzachan69&theme=github_dark&hide_border=true" alt="streak graph" height="150" />
+  
+  <br><br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzachan69&theme=github-dark&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
