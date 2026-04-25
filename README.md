@@ -1,10 +1,4 @@
-I'll help you create an impressive GitHub profile! Let me first check your current GitHub profile to see what we're working with.
-Let me search for some inspiration and best practices for creating an impressive GitHub profile with Spotify integration:
-Perfect! I'll help you create an impressive GitHub profile with Spotify integration. Here's a comprehensive **README.md** that you can use:
 
-## 🚀 Your New GitHub Profile
-
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hey+there!+%F0%9F%91%8B;I'm+Hamza+Chan" alt="Typing SVG" />
 </h1>
