@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hamza+Khan+👋;Unity+Game+Developer+🎮;AI+%2F+ML+Engineer+🤖;Creative+Problem+Solver+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hamza+Khan+👋;Unity+Game+Developer+🎮;AI+%2F+ML+Enthusiast+🤖;Creative+Problem+Solver+⚡)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,10 +47,21 @@ I'm a **CS student at FAST NUCES Peshawar** with hands-on experience in **Unity 
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Data & Scientific Computing
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -64,50 +75,6 @@ I'm a **CS student at FAST NUCES Peshawar** with hands-on experience in **Unity 
 ### Creative
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 EmoSense — Real-Time AI Emotion Detection
-> `Python` `YOLOv8` `PyTorch` `OpenCV` `ONNX` · *2025 – 2026*
-
-Real-time system that detects faces from a live camera feed and classifies them into **7 emotions** (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise). Two-stage pipeline: face detection → emotion classifier trained on RAF-DB over 80 epochs, exported to ONNX for GPU-accelerated inference. Features coloured bounding boxes, emoji badges, live confidence bars, and a dominant emotion readout. Runs on Windows & Linux.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamzachan69/Emosense)
-
----
-
-### 🏗️ Origami Configurator — Web Version
-> `Unity` `WebGL` `C#` · *2024 – 2026*
-
-Ported a **construction industry mobile app** (live on Google Play) to a full browser-based version using Unity WebGL. Redesigned the entire UI, preserved all features (3D model viewing, product setup, pricing, construction tools), and significantly reduced load size for fast, install-free access across devices.
-
----
-
-### 🎮 2D Slingshot Game — Game Jam Build
-> `C#` `Unity` · *June – Aug 2024*
-
-Physics-based slingshot game with projectiles, zombie targets, and destructible obstacles. Built and shipped as a complete **Summer Rookie Game Jam '24** entry in collaboration with a 3-person team under a tight deadline.
-
----
-
-### 🐍 Snake Game
-> `C++` `SFML` `Visual Studio` · *March – April 2023*
-
-Classic Snake remake with smooth controls, custom visuals, and clean code architecture. Fine-tuned collision detection and frame logic for responsive, enjoyable gameplay.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamzachan69/Snake)
-
----
-
-## 💼 Work Experience
-
-| Role | Company | Period |
-|---|---|---|
-| 🎮 Junior Unity Game Developer | Cognitive Force (Remote) | Nov 2024 – Jul 2025 |
-| 🕹️ Unity Intern | Mindstorm Studios (MLabs) | Jun 2024 – Aug 2024 |
-| 🎬 Professional Video Editor | Upwork (Freelance) | Jun 2023 – Present |
 
 ---
 
@@ -128,27 +95,6 @@ Classic Snake remake with smooth controls, custom visuals, and clean code archit
 ## 🔥 GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamzachan69&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Hamzachan69)
-
----
-
-## 🌐 Languages
-
-🇬🇧 **English** — Professional Proficiency &nbsp;|&nbsp; 🇵🇰 **Urdu** — Native &nbsp;|&nbsp; **Pashto** — Native
-
----
-
-## 👀 Profile Views
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Hamzachan69&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/Hamzachan69)
-
----
-
-## 📫 Get In Touch
-
-Got a game idea, an ML project, or need a polished video? Let's talk.
-
-📧 [muhammadhamzakhanmarwat@gmail.com](mailto:muhammadhamzakhanmarwat@gmail.com)
-🔗 [linkedin.com/in/muhammad-hamza-khan](https://linkedin.com/in/muhammad-hamza-khan)
 
 ---
 
